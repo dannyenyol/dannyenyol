@@ -1,6 +1,6 @@
 # Hi there, I'm Danial Asyraf 👋
 
-### 🚀 Aspiring Software Engineer | Data Visualization Enthusiast
+### 🚀 Aspiring Software Engineer | UI/UX & Full-Stack Enthusiast
 
 I am a final-year student passionate about building functional, user-centric applications and exploring the intersection of software development and cybersecurity. Currently, I am seeking an **internship opportunity** where I can contribute to impactful projects and grow as a developer.
 
@@ -9,23 +9,26 @@ I am a final-year student passionate about building functional, user-centric app
 ### 🛠️ My Tech Stack
 
 **Languages & Frameworks**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-**Design & Data**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+**Design & Hardware**
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Uizard](https://img.shields.io/badge/Uizard-00D7A1?style=for-the-badge&logo=uizard&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ---
 
 ### 📂 Featured Projects
 
-* **TNB-ALERT** – A monitoring system built to track and visualize utility incidents.
-* **UNITEN-Club** – A PHP-based management system for student organizations.
-* **Adopt-a-Pet (Wawatiqahh/Adopta)** – Contributing to a collaborative pet adoption platform.
+* **Lauk** – A centralized digital ecosystem for meat distribution, coordinating inventory and fulfillment between HQ, agents, and customers.
+* **Kineg Solution** – A full-scale UI/UX redesign and mobile app development integrated with Arduino for real-time hardware-to-web data interaction.
+* **Khalifah Mobile App** – An operational management tool built with **Kotlin** featuring audit checklists and workflow tracking to improve business accountability.
+* **TNB-ALERT** – A monitoring system built to track and visualize utility incidents using data visualization.
+* * **Adopt-a-Pet** – Contributing to a collaborative pet adoption platform.
 
 ---
 

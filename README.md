@@ -24,19 +24,18 @@ I am a final-year student passionate about building functional, user-centric app
 
 ### 📂 Featured Projects
 
+* **GMi-V (Vehicle Enforcement System)** – A centralized campus management platform featuring QR scanning, real-time alerts, and penalty processing to enhance safety and efficiency.
+* **TNB-ALERT** – A monitoring system built to track and visualize utility incidents using data visualization.
 * **Lauk** – A centralized digital ecosystem for meat distribution, coordinating inventory and fulfillment between HQ, agents, and customers.
 * **Kineg Solution** – A full-scale UI/UX redesign and mobile app development integrated with Arduino for real-time hardware-to-web data interaction.
 * **Khalifah Mobile App** – An operational management tool built with **Kotlin** featuring audit checklists and workflow tracking to improve business accountability.
-* **TNB-ALERT** – A monitoring system built to track and visualize utility incidents using data visualization.
-* * **Adopt-a-Pet** – Contributing to a collaborative pet adoption platform.
+* **Adopta** – Contributing to a collaborative pet adoption platform.
 
 ---
 
 ### 📊 GitHub Stats
 
 ![Danial's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyenyol&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyenyol&layout=compact&theme=radical)
-
 ---
 
 ### 📫 Let's Connect!

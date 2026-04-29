@@ -33,11 +33,6 @@ I am a final-year student passionate about building functional, user-centric app
 
 ---
 
-### 📊 GitHub Stats
-
-![Danial's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyenyol&show_icons=true&theme=radical)
----
-
 ### 📫 Let's Connect!
 
 * **LinkedIn:** [in/danial-asyraf-a61695257](https://linkedin.com/in/danial-asyraf-a61695257)

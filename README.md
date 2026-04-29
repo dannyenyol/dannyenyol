@@ -42,7 +42,7 @@ I am a final-year student passionate about building functional, user-centric app
 
 * **LinkedIn:** [in/danial-asyraf-a61695257](https://linkedin.com/in/danial-asyraf-a61695257)
 * **Portfolio:** [danialasyraf.framer.website](https://danialasyraf.framer.website)
-* **Email:** [danialasyraf.azahari@gmail.com]
+* **Email:** danialasyraf.azahari@gmail.com
 
 ---
 
